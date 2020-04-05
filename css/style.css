@@ -1,0 +1,67 @@
+h1 {
+  padding-bottom: 20px;
+}
+p {
+  font-size: 20px;
+}
+button {
+  margin: 0 10px;
+}
+/* Section-01 */
+#title {
+  position: absolute;
+  color: white;
+  top: 620px;
+  left: 790px;
+  font-size: 80px;
+}
+.about-me {
+  padding: 7% 7% ;
+  line-height: 1.5;
+  background: center cover;
+}
+.top-pick {
+  padding: 3% 15%;
+}
+.img1 {
+  padding: 0 30px 20px 0;
+}
+.img2 {
+  padding-left: 0 0 20px 30px;
+}
+.price-tag {
+  text-align: center;
+}
+strike {
+  color: red;
+}
+.price {
+  display: inline;
+  margin-right: 20px;
+}
+.form-title {
+  text-align: center;
+  padding: 50px 100px;
+  color: white;
+  margin-bottom: 40px;
+}
+.email-input {
+  padding: 5px 600px 5px 10px;
+}
+
+.services {
+  margin-top: 50px;
+  text-align: center;
+  padding: 0 15%;
+}
+.services-grid {
+  padding: 7% 10%;
+  text-align: center;
+}
+.box {
+  padding: 10px 50px;
+}
+.box i {
+  color: orange;
+  margin-bottom: 30px;
+}
